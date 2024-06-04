@@ -11,4 +11,8 @@ $('.sliderChert_contentBox').slick({
 	swipe: true,
 	dots: true,
 	fade: true,
+	slidesToShow: 1,
+  slidesToScroll: 1,
+	adaptiveHeight: true,
+		
 })
